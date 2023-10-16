@@ -1,0 +1,6 @@
+comida-float( input("escribe el total sin propina"))
+propina=float ( input ( *que cantidad de propina deseas dar"))
+total-comida*propina/100
+final=total*comida
+ print( *cantidad propina:", total)
+print( *precio final con propina", final)

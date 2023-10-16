@@ -1,0 +1,9 @@
+celsius _to_fahrenheit=9/5
+celsius_to_kelvin=273.15
+
+temperatura_celsius=float(input("Ingrese la temperatura en Celsius:"))
+temperatura_fahrenheit=temperatura_celsius * Celsius_to_fahrenheit+32
+temperatura_kelvin=temperatura_celsius + Celsius_to_kelvin
+
+print("La temperatura en Fahrenheit es: {}".format(temperatura_fahrenheit))
+print("La temperatura en Kelvin es: {}".format(temperatura_kelvin))

@@ -1,0 +1,12 @@
+def examen facil():
+cantidad=1
+
+precio=200
+
+costo=cantidad*precio
+descuento=costo*(20/100)
+costo_final=costo-descuento
+
+print("el costo final es de:",costo_final)
+
+facil() 

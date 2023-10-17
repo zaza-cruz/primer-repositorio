@@ -1,0 +1,14 @@
+#https://replit.com/join/ametbbjmig-arantzacruz3
+
+calificacion=(input("escribir la puntacion de examen del(0-100)"))
+completas=int(input("escribir el numero de asignaciones completas del (0-10)"))
+participacion=(input("escribir la participacion 1=si 2=no"))
+
+if (calificacion==70,80,90,100):
+  print("aproboado")
+
+if (completas==5,6,7,8,9,10):
+  print("aprobado")
+ 
+if(participacion==1):
+ print("aprobado") 
